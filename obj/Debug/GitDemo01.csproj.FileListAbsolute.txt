@@ -1,0 +1,6 @@
+C:\Users\P10425092\source\repos\GitDemo01\GitDemo01\bin\Debug\GitDemo01.exe.config
+C:\Users\P10425092\source\repos\GitDemo01\GitDemo01\bin\Debug\GitDemo01.exe
+C:\Users\P10425092\source\repos\GitDemo01\GitDemo01\bin\Debug\GitDemo01.pdb
+C:\Users\P10425092\source\repos\GitDemo01\GitDemo01\obj\Debug\GitDemo01.csproj.CoreCompileInputs.cache
+C:\Users\P10425092\source\repos\GitDemo01\GitDemo01\obj\Debug\GitDemo01.exe
+C:\Users\P10425092\source\repos\GitDemo01\GitDemo01\obj\Debug\GitDemo01.pdb
